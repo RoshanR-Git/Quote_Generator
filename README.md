@@ -154,6 +154,6 @@ button.addEventListener('click',() =>{
 <img width="1919" height="875" alt="Screenshot 2025-07-10 212353" src="https://github.com/user-attachments/assets/dac11ca7-e0b0-41d6-a01a-9c3926610516" />
 
 ## Live Webpage:
-
+https://roshanr-git.github.io/Quote_Generator/
 ## Result:
 A simple quote generator using HTML, CSS, and JavaScript that displays a new random motivational quote each time a button is clicked — similar to daily quote sections on blogs or productivity apps is created successfully.
